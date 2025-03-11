@@ -1,0 +1,402 @@
+[
+    {
+        "english": "Good morning, everyone.",
+        "turkish": "Herkese günaydın."
+    },
+    {
+        "english": "Thank you for joining the meeting.",
+        "turkish": "Toplantıya katıldığınız için teşekkür ederim."
+    },
+    {
+        "english": "Could you please introduce yourself?",
+        "turkish": "Kendinizi tanıtır mısınız?"
+    },
+    {
+        "english": "I would like to welcome you to our company.",
+        "turkish": "Şirketimize hoş geldiniz demek istiyorum."
+    },
+    {
+        "english": "Let’s start the meeting.",
+        "turkish": "Toplantıya başlayalım."
+    },
+    {
+        "english": "Please take a seat.",
+        "turkish": "Lütfen oturun."
+    },
+    {
+        "english": "Today’s agenda is as follows.",
+        "turkish": "Bugünkü gündem aşağıdaki gibidir."
+    },
+    {
+        "english": "Can you share the presentation?",
+        "turkish": "Sunumu paylaşabilir misiniz?"
+    },
+    {
+        "english": "I have a question regarding the proposal.",
+        "turkish": "Teklif ile ilgili bir sorum var."
+    },
+    {
+        "english": "Could you elaborate on that point?",
+        "turkish": "O konu hakkında biraz daha detaylı bilgi verebilir misiniz?"
+    },
+    {
+        "english": "We need to discuss the budget allocation.",
+        "turkish": "Bütçe dağılımını tartışmamız gerekiyor."
+    },
+    {
+        "english": "The deadline for the project is next Friday.",
+        "turkish": "Projenin teslim tarihi gelecek Cuma."
+    },
+    {
+        "english": "I will send you the meeting minutes later.",
+        "turkish": "Toplantı notlarını daha sonra göndereceğim."
+    },
+    {
+        "english": "Please confirm your availability for a meeting.",
+        "turkish": "Bir toplantı için müsait olduğunuzu teyit eder misiniz?"
+    },
+    {
+        "english": "We should schedule a follow-up meeting.",
+        "turkish": "Bir takip toplantısı planlamalıyız."
+    },
+    {
+        "english": "Let me know if you have any questions.",
+        "turkish": "Herhangi bir sorunuz varsa bana bildirin."
+    },
+    {
+        "english": "We need to finalize the contract.",
+        "turkish": "Sözleşmeyi kesinleştirmemiz gerekiyor."
+    },
+    {
+        "english": "I am looking forward to our collaboration.",
+        "turkish": "İşbirliğimizi sabırsızlıkla bekliyorum."
+    },
+    {
+        "english": "Could you send me the updated report?",
+        "turkish": "Güncellenmiş raporu bana gönderebilir misiniz?"
+    },
+    {
+        "english": "I will review the documents and get back to you.",
+        "turkish": "Belgeleri inceleyeceğim ve size dönüş yapacağım."
+    },
+    {
+        "english": "Our company values transparency and integrity.",
+        "turkish": "Şirketimiz şeffaflık ve bütünlüğe değer verir."
+    },
+    {
+        "english": "Please find the attached file.",
+        "turkish": "Ekli dosyayı inceleyiniz."
+    },
+    {
+        "english": "We need to improve our customer service.",
+        "turkish": "Müşteri hizmetlerimizi geliştirmemiz gerekiyor."
+    },
+    {
+        "english": "Let’s discuss the project timeline.",
+        "turkish": "Proje zaman çizelgesini tartışalım."
+    },
+    {
+        "english": "I have scheduled a conference call for tomorrow.",
+        "turkish": "Yarın için bir telefon konferansı planladım."
+    },
+    {
+        "english": "Could you please confirm your attendance?",
+        "turkish": "Katılımınızı teyit eder misiniz?"
+    },
+    {
+        "english": "We appreciate your prompt response.",
+        "turkish": "Hızlı cevabınız için teşekkür ederiz."
+    },
+    {
+        "english": "I will forward your email to the relevant department.",
+        "turkish": "E-postanızı ilgili departmana ileteceğim."
+    },
+    {
+        "english": "Let’s review the quarterly performance.",
+        "turkish": "Üç aylık performansı gözden geçirelim."
+    },
+    {
+        "english": "Please update me on the current status.",
+        "turkish": "Mevcut durum hakkında beni bilgilendirin."
+    },
+    {
+        "english": "Our team is working on the new strategy.",
+        "turkish": "Ekibimiz yeni strateji üzerinde çalışıyor."
+    },
+    {
+        "english": "I would like to propose a new idea.",
+        "turkish": "Yeni bir fikir önermek istiyorum."
+    },
+    {
+        "english": "Could you clarify that for me?",
+        "turkish": "Bunu benim için netleştirebilir misiniz?"
+    },
+    {
+        "english": "I agree with your suggestion.",
+        "turkish": "Önerinize katılıyorum."
+    },
+    {
+        "english": "We need to consider alternative solutions.",
+        "turkish": "Alternatif çözümleri değerlendirmemiz gerekiyor."
+    },
+    {
+        "english": "Our main objective is to increase sales.",
+        "turkish": "Ana hedefimiz satışları artırmak."
+    },
+    {
+        "english": "The market trends are showing positive growth.",
+        "turkish": "Pazar eğilimleri olumlu bir büyüme gösteriyor."
+    },
+    {
+        "english": "We have a strong team in place.",
+        "turkish": "Güçlü bir ekibe sahibiz."
+    },
+    {
+        "english": "Could you please explain the process?",
+        "turkish": "Süreci açıklayabilir misiniz?"
+    },
+    {
+        "english": "I am responsible for managing the project.",
+        "turkish": "Projeyi yönetmekten sorumluyum."
+    },
+    {
+        "english": "Let’s set some clear objectives.",
+        "turkish": "Net hedefler belirleyelim."
+    },
+    {
+        "english": "We must adhere to the deadline.",
+        "turkish": "Teslim tarihine uymamız gerekiyor."
+    },
+    {
+        "english": "Please prepare a detailed report.",
+        "turkish": "Lütfen detaylı bir rapor hazırlayın."
+    },
+    {
+        "english": "I will follow up on the pending tasks.",
+        "turkish": "Bekleyen işleri takip edeceğim."
+    },
+    {
+        "english": "Our meeting is scheduled for 10 AM.",
+        "turkish": "Toplantımız saat 10:00’da planlandı."
+    },
+    {
+        "english": "I need some additional information.",
+        "turkish": "Ek bilgiye ihtiyacım var."
+    },
+    {
+        "english": "Could you please provide further details?",
+        "turkish": "Daha fazla ayrıntı verebilir misiniz?"
+    },
+    {
+        "english": "Let’s arrange a meeting to discuss this further.",
+        "turkish": "Bunu daha detaylı tartışmak için bir toplantı ayarlayalım."
+    },
+    {
+        "english": "I appreciate your cooperation.",
+        "turkish": "İşbirliğiniz için teşekkür ederim."
+    },
+    {
+        "english": "We need to resolve this issue immediately.",
+        "turkish": "Bu sorunu hemen çözmemiz gerekiyor."
+    },
+    {
+        "english": "Please let me know your thoughts on this matter.",
+        "turkish": "Bu konu hakkındaki düşüncelerinizi bildirir misiniz?"
+    },
+    {
+        "english": "Our budget has been approved.",
+        "turkish": "Bütçemiz onaylandı."
+    },
+    {
+        "english": "I will coordinate with the marketing department.",
+        "turkish": "Pazarlama departmanı ile koordinasyon sağlayacağım."
+    },
+    {
+        "english": "Let’s work together to achieve our goals.",
+        "turkish": "Hedeflerimize ulaşmak için birlikte çalışalım."
+    },
+    {
+        "english": "We need to streamline our processes.",
+        "turkish": "Süreçlerimizi düzene sokmamız gerekiyor."
+    },
+    {
+        "english": "I will send a follow-up email after the meeting.",
+        "turkish": "Toplantı sonrası takip e-postası göndereceğim."
+    },
+    {
+        "english": "Could you update the project file?",
+        "turkish": "Proje dosyasını güncelleyebilir misiniz?"
+    },
+    {
+        "english": "We are facing some challenges.",
+        "turkish": "Bazı zorluklarla karşılaşıyoruz."
+    },
+    {
+        "english": "Let’s discuss possible solutions.",
+        "turkish": "Olası çözümleri tartışalım."
+    },
+    {
+        "english": "I will arrange a meeting with the team.",
+        "turkish": "Ekip ile bir toplantı düzenleyeceğim."
+    },
+    {
+        "english": "We need to analyze the market data.",
+        "turkish": "Pazar verilerini analiz etmemiz gerekiyor."
+    },
+    {
+        "english": "Our sales have increased this quarter.",
+        "turkish": "Bu çeyrekte satışlarımız arttı."
+    },
+    {
+        "english": "I am confident in our strategy.",
+        "turkish": "Stratejimize güveniyorum."
+    },
+    {
+        "english": "Let’s focus on customer satisfaction.",
+        "turkish": "Müşteri memnuniyetine odaklanalım."
+    },
+    {
+        "english": "I have attached the contract for your review.",
+        "turkish": "İncelemeniz için sözleşmeyi ekledim."
+    },
+    {
+        "english": "We need to sign the agreement by the end of the week.",
+        "turkish": "Hafta sonuna kadar anlaşmayı imzalamamız gerekiyor."
+    },
+    {
+        "english": "Please confirm receipt of this email.",
+        "turkish": "Bu e-postayı aldığınızı teyit eder misiniz?"
+    },
+    {
+        "english": "I am available for a call at your convenience.",
+        "turkish": "Size uygun bir zamanda görüşmeye hazırım."
+    },
+    {
+        "english": "Let’s discuss this over a conference call.",
+        "turkish": "Bunu telefon konferansı ile tartışalım."
+    },
+    {
+        "english": "I would like to set up a meeting next week.",
+        "turkish": "Gelecek hafta bir toplantı ayarlamak istiyorum."
+    },
+    {
+        "english": "Could you please send the proposal by tomorrow?",
+        "turkish": "Teklifi yarına kadar gönderebilir misiniz?"
+    },
+    {
+        "english": "We need to review our quarterly targets.",
+        "turkish": "Üç aylık hedeflerimizi gözden geçirmemiz gerekiyor."
+    },
+    {
+        "english": "The project is on track.",
+        "turkish": "Proje planlandığı gibi ilerliyor."
+    },
+    {
+        "english": "I will update you on any progress.",
+        "turkish": "Herhangi bir gelişme olursa sizi bilgilendireceğim."
+    },
+    {
+        "english": "Our team has been working diligently.",
+        "turkish": "Ekibimiz titizlikle çalışıyor."
+    },
+    {
+        "english": "Please allocate the necessary resources.",
+        "turkish": "Gerekli kaynakları tahsis ediniz."
+    },
+    {
+        "english": "We need to reduce operational costs.",
+        "turkish": "Operasyonel maliyetleri azaltmamız gerekiyor."
+    },
+    {
+        "english": "I have scheduled a meeting with our suppliers.",
+        "turkish": "Tedarikçilerimizle bir toplantı ayarladım."
+    },
+    {
+        "english": "Could you please confirm the delivery date?",
+        "turkish": "Teslimat tarihini teyit edebilir misiniz?"
+    },
+    {
+        "english": "We are open to negotiation.",
+        "turkish": "Pazarlığa açığız."
+    },
+    {
+        "english": "I look forward to a successful partnership.",
+        "turkish": "Başarılı bir iş ortaklığını dört gözle bekliyorum."
+    },
+    {
+        "english": "Please review the attached documents.",
+        "turkish": "Ekli belgeleri gözden geçiriniz."
+    },
+    {
+        "english": "We need to update our business plan.",
+        "turkish": "İş planımızı güncellememiz gerekiyor."
+    },
+    {
+        "english": "I will coordinate with the finance team.",
+        "turkish": "Finans ekibiyle koordinasyon sağlayacağım."
+    },
+    {
+        "english": "Our meeting will be held in the main conference room.",
+        "turkish": "Toplantımız ana konferans salonunda yapılacak."
+    },
+    {
+        "english": "Could you please summarize the key points?",
+        "turkish": "Ana noktaları özetleyebilir misiniz?"
+    },
+    {
+        "english": "We need to set realistic targets.",
+        "turkish": "Gerçekçi hedefler belirlememiz gerekiyor."
+    },
+    {
+        "english": "I appreciate your timely feedback.",
+        "turkish": "Zamanında geri bildiriminiz için teşekkür ederim."
+    },
+    {
+        "english": "Let’s prepare a comprehensive report.",
+        "turkish": "Kapsamlı bir rapor hazırlayalım."
+    },
+    {
+        "english": "I am responsible for client relations.",
+        "turkish": "Müşteri ilişkilerinden sorumluyum."
+    },
+    {
+        "english": "We need to maintain high quality standards.",
+        "turkish": "Yüksek kalite standartlarını korumamız gerekiyor."
+    },
+    {
+        "english": "I will send you the revised document.",
+        "turkish": "Düzeltilmiş belgeyi size göndereceğim."
+    },
+    {
+        "english": "Could you clarify the project requirements?",
+        "turkish": "Proje gereksinimlerini netleştirebilir misiniz?"
+    },
+    {
+        "english": "I am available for a meeting this afternoon.",
+        "turkish": "Bugün öğleden sonra toplantıya hazırım."
+    },
+    {
+        "english": "Let’s touch base later this week.",
+        "turkish": "Bu hafta sonrasında görüşelim."
+    },
+    {
+        "english": "We need to address the client’s concerns.",
+        "turkish": "Müşterinin endişelerini ele almamız gerekiyor."
+    },
+    {
+        "english": "I will draft an email and send it for review.",
+        "turkish": "Bir e-posta taslağı hazırlayıp incelemeniz için göndereceğim."
+    },
+    {
+        "english": "Our strategy has been very effective so far.",
+        "turkish": "Stratejimiz şimdiye kadar çok etkili oldu."
+    },
+    {
+        "english": "Could you please provide an update on the project?",
+        "turkish": "Proje hakkında güncelleme verebilir misiniz?"
+    },
+    {
+        "english": "Thank you for your cooperation and hard work.",
+        "turkish": "İşbirliğiniz ve sıkı çalışmanız için teşekkür ederim."
+    }
+]

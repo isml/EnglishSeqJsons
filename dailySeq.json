@@ -1,0 +1,402 @@
+[
+    {
+        "english": "Hello, how are you?",
+        "turkish": "Merhaba, nasılsın?"
+    },
+    {
+        "english": "My name is John.",
+        "turkish": "Benim adım John."
+    },
+    {
+        "english": "I live in Istanbul.",
+        "turkish": "İstanbul'da yaşıyorum."
+    },
+    {
+        "english": "I am learning English.",
+        "turkish": "İngilizce öğreniyorum."
+    },
+    {
+        "english": "What is your name?",
+        "turkish": "Senin adın ne?"
+    },
+    {
+        "english": "Nice to meet you.",
+        "turkish": "Tanıştığımıza memnun oldum."
+    },
+    {
+        "english": "Where are you from?",
+        "turkish": "Nerelisin?"
+    },
+    {
+        "english": "I come from Turkey.",
+        "turkish": "Ben Türkiye'den geliyorum."
+    },
+    {
+        "english": "How old are you?",
+        "turkish": "Kaç yaşındasın?"
+    },
+    {
+        "english": "I am twenty-five years old.",
+        "turkish": "Ben yirmi beş yaşındayım."
+    },
+    {
+        "english": "What do you do?",
+        "turkish": "Ne iş yapıyorsun?"
+    },
+    {
+        "english": "I am a student.",
+        "turkish": "Ben bir öğrenciyim."
+    },
+    {
+        "english": "I work in an office.",
+        "turkish": "Bir ofiste çalışıyorum."
+    },
+    {
+        "english": "Can you speak slowly, please?",
+        "turkish": "Lütfen yavaş konuşabilir misin?"
+    },
+    {
+        "english": "I don't understand.",
+        "turkish": "Anlamıyorum."
+    },
+    {
+        "english": "Could you repeat that, please?",
+        "turkish": "Tekrar edebilir misin lütfen?"
+    },
+    {
+        "english": "What does this word mean?",
+        "turkish": "Bu kelime ne anlama geliyor?"
+    },
+    {
+        "english": "I am sorry.",
+        "turkish": "Özür dilerim."
+    },
+    {
+        "english": "Thank you very much.",
+        "turkish": "Çok teşekkür ederim."
+    },
+    {
+        "english": "You are welcome.",
+        "turkish": "Bir şey değil."
+    },
+    {
+        "english": "Excuse me, where is the restroom?",
+        "turkish": "Affedersiniz, tuvalet nerede?"
+    },
+    {
+        "english": "How much does it cost?",
+        "turkish": "Bu ne kadar?"
+    },
+    {
+        "english": "I would like to buy this.",
+        "turkish": "Bunu satın almak istiyorum."
+    },
+    {
+        "english": "Do you accept credit cards?",
+        "turkish": "Kredi kartı kabul ediyor musunuz?"
+    },
+    {
+        "english": "Where can I find a taxi?",
+        "turkish": "Nereden taksi bulabilirim?"
+    },
+    {
+        "english": "Could you help me find this address?",
+        "turkish": "Bu adresi bulmama yardım edebilir misin?"
+    },
+    {
+        "english": "I am lost.",
+        "turkish": "Kayboldum."
+    },
+    {
+        "english": "What time is it?",
+        "turkish": "Saat kaç?"
+    },
+    {
+        "english": "Can you show me on the map?",
+        "turkish": "Bana haritada gösterebilir misin?"
+    },
+    {
+        "english": "I love this place.",
+        "turkish": "Bu yeri çok seviyorum."
+    },
+    {
+        "english": "I am hungry.",
+        "turkish": "Açım."
+    },
+    {
+        "english": "I am thirsty.",
+        "turkish": "Susadım."
+    },
+    {
+        "english": "Where is the nearest restaurant?",
+        "turkish": "En yakın restoran nerede?"
+    },
+    {
+        "english": "Can I have the menu, please?",
+        "turkish": "Menüyü alabilir miyim lütfen?"
+    },
+    {
+        "english": "I would like water.",
+        "turkish": "Su istiyorum."
+    },
+    {
+        "english": "Do you have any recommendations?",
+        "turkish": "Herhangi bir öneriniz var mı?"
+    },
+    {
+        "english": "I am allergic to nuts.",
+        "turkish": "Fındığa alerjim var."
+    },
+    {
+        "english": "I don't eat meat.",
+        "turkish": "Et yemiyorum."
+    },
+    {
+        "english": "Can I get the bill, please?",
+        "turkish": "Hesabı alabilir miyim lütfen?"
+    },
+    {
+        "english": "Is service included?",
+        "turkish": "Servis ücreti dahil mi?"
+    },
+    {
+        "english": "Where is the nearest bus stop?",
+        "turkish": "En yakın otobüs durağı nerede?"
+    },
+    {
+        "english": "How do I get to the airport?",
+        "turkish": "Havaalanına nasıl giderim?"
+    },
+    {
+        "english": "I need a taxi.",
+        "turkish": "Taksiye ihtiyacım var."
+    },
+    {
+        "english": "I would like to make a reservation.",
+        "turkish": "Rezervasyon yapmak istiyorum."
+    },
+    {
+        "english": "Do you have any vacancies?",
+        "turkish": "Boş odanız var mı?"
+    },
+    {
+        "english": "I have a reservation.",
+        "turkish": "Benim rezervasyonum var."
+    },
+    {
+        "english": "Could you call a cab for me?",
+        "turkish": "Benim için bir taksi çağırabilir misin?"
+    },
+    {
+        "english": "What is your favorite color?",
+        "turkish": "En sevdiğin renk nedir?"
+    },
+    {
+        "english": "I like blue.",
+        "turkish": "Mavi hoşuma gidiyor."
+    },
+    {
+        "english": "I am tired.",
+        "turkish": "Yorgunum."
+    },
+    {
+        "english": "I need some rest.",
+        "turkish": "Biraz dinlenmeye ihtiyacım var."
+    },
+    {
+        "english": "It is a beautiful day.",
+        "turkish": "Güzel bir gün."
+    },
+    {
+        "english": "The weather is nice today.",
+        "turkish": "Bugün hava güzel."
+    },
+    {
+        "english": "What is your favorite food?",
+        "turkish": "En sevdiğin yemek nedir?"
+    },
+    {
+        "english": "I enjoy reading books.",
+        "turkish": "Kitap okumaktan hoşlanırım."
+    },
+    {
+        "english": "I love listening to music.",
+        "turkish": "Müzik dinlemeyi severim."
+    },
+    {
+        "english": "I am interested in learning English.",
+        "turkish": "İngilizce öğrenmeye ilgi duyuyorum."
+    },
+    {
+        "english": "Can you recommend a good movie?",
+        "turkish": "İyi bir film önerir misin?"
+    },
+    {
+        "english": "What are your hobbies?",
+        "turkish": "Hobilerin nelerdir?"
+    },
+    {
+        "english": "I like to travel.",
+        "turkish": "Seyahat etmeyi severim."
+    },
+    {
+        "english": "I enjoy cooking.",
+        "turkish": "Yemek yapmaktan keyif alırım."
+    },
+    {
+        "english": "I prefer tea over coffee.",
+        "turkish": "Kahve yerine çayı tercih ederim."
+    },
+    {
+        "english": "How was your day?",
+        "turkish": "Günün nasıldı?"
+    },
+    {
+        "english": "I had a good day.",
+        "turkish": "Günüm iyiydi."
+    },
+    {
+        "english": "What are you doing now?",
+        "turkish": "Şu anda ne yapıyorsun?"
+    },
+    {
+        "english": "I am reading a book.",
+        "turkish": "Kitap okuyorum."
+    },
+    {
+        "english": "I am working on a project.",
+        "turkish": "Bir proje üzerinde çalışıyorum."
+    },
+    {
+        "english": "Can you help me with my homework?",
+        "turkish": "Ödevimde bana yardım edebilir misin?"
+    },
+    {
+        "english": "I am studying for my exam.",
+        "turkish": "Sınavıma çalışıyorum."
+    },
+    {
+        "english": "I need to practice my English.",
+        "turkish": "İngilizcemi pratiğe dökmem gerekiyor."
+    },
+    {
+        "english": "Let's practice together.",
+        "turkish": "Birlikte pratik yapalım."
+    },
+    {
+        "english": "Could you speak louder, please?",
+        "turkish": "Lütfen daha yüksek sesle konuşabilir misin?"
+    },
+    {
+        "english": "I am excited about the trip.",
+        "turkish": "Gezi için heyecanlıyım."
+    },
+    {
+        "english": "I am looking forward to it.",
+        "turkish": "Sabırsızlıkla bekliyorum."
+    },
+    {
+        "english": "This is very interesting.",
+        "turkish": "Bu çok ilginç."
+    },
+    {
+        "english": "I agree with you.",
+        "turkish": "Seninle aynı fikirdeyim."
+    },
+    {
+        "english": "I disagree with that.",
+        "turkish": "Buna katılmıyorum."
+    },
+    {
+        "english": "That's a good idea.",
+        "turkish": "Bu iyi bir fikir."
+    },
+    {
+        "english": "I am not sure about that.",
+        "turkish": "Bundan emin değilim."
+    },
+    {
+        "english": "Could you explain that again?",
+        "turkish": "Bunu tekrar açıklayabilir misin?"
+    },
+    {
+        "english": "I need some more information.",
+        "turkish": "Biraz daha bilgiye ihtiyacım var."
+    },
+    {
+        "english": "What do you think?",
+        "turkish": "Ne düşünüyorsun?"
+    },
+    {
+        "english": "I think it's great.",
+        "turkish": "Harika olduğunu düşünüyorum."
+    },
+    {
+        "english": "That sounds interesting.",
+        "turkish": "Kulağa ilginç geliyor."
+    },
+    {
+        "english": "I understand what you mean.",
+        "turkish": "Ne demek istediğini anlıyorum."
+    },
+    {
+        "english": "Could you speak more clearly?",
+        "turkish": "Daha net konuşabilir misin?"
+    },
+    {
+        "english": "I am practicing my pronunciation.",
+        "turkish": "Telaffuzumu geliştiriyorum."
+    },
+    {
+        "english": "I need to improve my vocabulary.",
+        "turkish": "Kelime dağarcığımı geliştirmem gerekiyor."
+    },
+    {
+        "english": "How do you say this in English?",
+        "turkish": "Bunu İngilizce nasıl söylersin?"
+    },
+    {
+        "english": "I am using an online dictionary.",
+        "turkish": "Çevrimiçi bir sözlük kullanıyorum."
+    },
+    {
+        "english": "I will study every day.",
+        "turkish": "Her gün çalışacağım."
+    },
+    {
+        "english": "Practice makes perfect.",
+        "turkish": "Pratik mükemmelleştirir."
+    },
+    {
+        "english": "I enjoy learning new languages.",
+        "turkish": "Yeni diller öğrenmekten keyif alırım."
+    },
+    {
+        "english": "I will remember this.",
+        "turkish": "Bunu hatırlayacağım."
+    },
+    {
+        "english": "I like to listen to podcasts.",
+        "turkish": "Podcast dinlemeyi severim."
+    },
+    {
+        "english": "I am making progress.",
+        "turkish": "İlerleme kaydediyorum."
+    },
+    {
+        "english": "I need to review this lesson.",
+        "turkish": "Bu dersi gözden geçirmem gerekiyor."
+    },
+    {
+        "english": "Let's start a conversation.",
+        "turkish": "Hadi bir sohbet başlatalım."
+    },
+    {
+        "english": "Could you correct my mistakes?",
+        "turkish": "Hatalarımı düzeltebilir misin?"
+    },
+    {
+        "english": "I will never give up learning English.",
+        "turkish": "İngilizce öğrenmekten asla vazgeçmeyeceğim."
+    }
+]
